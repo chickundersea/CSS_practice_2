@@ -1,0 +1,12 @@
+section {
+    padding: 100px;
+}
+
+input {
+    margin: 5px;
+}
+
+button {
+background-color: pink;
+border-radius: 3px;
+}
